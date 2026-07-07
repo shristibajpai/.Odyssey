@@ -27,7 +27,7 @@
 
 ```text
 📅 Days Documented       [ ██████████░░░░░░░░░░ ] 52 Days
-💻 Active Projects       [ ██████████████░░░░░░ ] 04 Production
+💻 Active Projects       [ ██████████████░░░░░░ ] 02 Production
 🧩 LeetCode Problems     [ ████████░░░░░░░░░░░░ ] 180+ Solved
-🌍 Open Source PRs       [ ████████████░░░░░░░░ ] 12 Merged (GSSoC)
+🌍 Open Source PRs       [ ░░░░░░░░░░░░░░░░░░░░ ] 00 Merged (GSSoC '26)
 🏆 Hackathons Attended   [ ████████████████░░░ ] 06 Completed
